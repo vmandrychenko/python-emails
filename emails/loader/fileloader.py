@@ -1,6 +1,7 @@
 # encoding: utf-8
 from __future__ import unicode_literals
 import logging
+import os, os.path
 from os import path
 from zipfile import ZipFile
 
